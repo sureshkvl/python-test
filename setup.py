@@ -8,7 +8,7 @@ test_requires = []
 
 setup(
     name='python-test1',
-    version='0.5',
+    version='0.6',
     description="Python Test program",
     author="suresh",
     author_email="sureshkumarr.s@gmail.com",
